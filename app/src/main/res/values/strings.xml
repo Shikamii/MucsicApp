@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Music App</string>
+    <string name="app_name">Sun Music</string>
+    <string name="sample_music_player">Sample Music Player</string>
+    <string name="select_a_song">Select a song</string>
+    <string name="unknown_artist">Unknown Artist</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="permission_required">Permission required for music playback</string>
+    <string name="failed_to_load_songs">Failed to load songs</string>
 </resources>
